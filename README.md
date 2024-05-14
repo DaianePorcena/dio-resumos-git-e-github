@@ -10,12 +10,15 @@ Repositório para armazenar resumos sobre Git e Github do curso Versionamento de
 
 | Aulas | Resumos |
 |-------|---------|
-| Aula 01 | [Resumos]() |
-| Aula 02 | [Resumos]() |
+| Visão Deral e Ferramentas  | [Resumo](resumos\01-visao-geral-e-ferramentas.md) |
+| Instalação, Configuração e Autenticação | [Resumos]() |
+| Primeiros Passos com Git | [Resumo](resumos\02-instalacao-configuracao-autenticacao.md) |
+| Commits Semânticos | [Resumo](resumos\commits-semmanticos.md) |
 
-```
-git init
+
+```git init
 ```
 
 ## 🔍 Referências
 - [Digital Innovation One]()
+- [Conventional Commits]()
